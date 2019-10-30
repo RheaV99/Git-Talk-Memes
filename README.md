@@ -22,4 +22,4 @@ This is a meme board made to teach people git
 # GO CRAZY BELOW!!!!! 
 
 
-[cursed bat] (images/meme.png)
+![cursed bat](images/meme.png)
